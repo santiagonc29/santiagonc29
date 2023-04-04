@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Soy desarrollador de software, mis tecnologias son: <br>java, javascript, typescript, React, etc.<br>💬 Me gusta trabajar en back-end pero tambien un poco <br>en front-end 🔭
+⚡ Soy desarrollador de software, mis tecnologias son:java, javascript, typescript, React, etc.<br>💬 Me gusta trabajar en back-end pero tambien un poco en front-end 🔭
 
 
 ## 🌐 Socials:
